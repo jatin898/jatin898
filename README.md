@@ -1,5 +1,5 @@
 <h1>--pathania  ji--</h1>
-<!--
-
-hello i am jatim pathamia and i want to start my coding journy
--->
+<hr>
+ hello i am jatim pathamia and i want to start my coding journy <br>
+ and i want to be successfull in my life
+ 
